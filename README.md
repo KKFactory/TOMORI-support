@@ -1,6 +1,10 @@
-# TOMORI サポート
+# TOMORIBI サポート
 
-**毎日に、小さな灯りを。** TOMORIは、予定・時計・天気・歩数をまとめて表示するiPad向けダッシュボードです。
+**毎日に、小さな灯りを。** TOMORIBIは、予定・時計・天気・歩数をまとめて表示するiPad向けダッシュボードです。
+
+## プライバシー
+
+[プライバシーポリシー](PRIVACY_POLICY.md)で、天気サービスへの通信、端末内データ、無料体験・購入情報、問い合わせ情報の取り扱いをご確認いただけます。
 
 ## お問い合わせ
 
@@ -14,13 +18,13 @@
 
 ## 天気について
 
-天気データは [MET Norway](https://www.met.no/) 提供、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) に基づき利用します。TOMORIで時間別予報を集計し、日本語表記に加工しています。
+天気データは [MET Norway](https://www.met.no/) 提供、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) に基づき利用します。TOMORIBIで時間別予報を集計し、日本語表記に加工しています。
 
 天気を使うと設定した座標と通信元IPアドレスがMET Norwayへ伝わります。GPSで現在地を取得する機能はありません。詳しくはアプリ内の「プライバシーとデータの取り扱い」をご覧ください。
 
 ## Contact for service providers
 
-This is the public developer contact for TOMORI for iPad, maintained by **KKFactory**. MET Norway and other service providers can contact the maintainer by [opening an issue](https://github.com/KKFactory/TOMORI-support/issues/new/choose). Japanese and English are welcome.
+This is the public developer contact for TOMORIBI for iPad, maintained by **KKFactory**. MET Norway and other service providers can contact the maintainer by [opening an issue](https://github.com/KKFactory/TOMORI-support/issues/new/choose). Japanese and English are welcome.
 
 Weather API User-Agent: `TOMORI/1.1 https://github.com/KKFactory/TOMORI-support`
 
